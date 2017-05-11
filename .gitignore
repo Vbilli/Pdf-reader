@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Transparent
+/.svn
+/_SCREEN_CAPTURE/
